@@ -5,12 +5,12 @@
 
 ###The folders for indexing are divided into:
 ```shell
+ ├── Preoperative Multi-modal Registration
+ ├── Preoperative Image Fusion 
+ ├── Image Segmentation
+ ├── 3D Resctruction
  ├── 
- ├──  
- ├── 
- ├──
  ├── Intraoperative 2D-3D Registration（Registration of intraoperative 3D models with 2D endoscopic images）
- ├──
  ├──
  │   
 ```
