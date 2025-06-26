@@ -1,9 +1,9 @@
 # SpineSurgicalPaper
 
-###To organize all relevant references for the entire project, with uploaded article titles being the full original titles, and placed in their respective folders.
+### To organize all relevant references for the entire project, with uploaded article titles being the full original titles, and placed in their respective folders.
 
 
-###The folders for indexing are divided into:
+### The folders for indexing are divided into:
 ```shell
  ├── Preoperative Multi-modal Registration
  ├── Preoperative Image Fusion 
